@@ -30,7 +30,7 @@ And in your `application.css` you will need to add this line:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/awesome-bootstrap-checkbox-rails.
+Bug reports and pull requests are welcome on GitHub at https://github.com/inventit/awesome-bootstrap-checkbox-rails.
 
 ## License
 
