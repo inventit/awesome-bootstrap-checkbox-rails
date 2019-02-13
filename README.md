@@ -20,11 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-In your `application.js` you will need to add this line:
-
-    //= require awesome-bootstrap-checkbox
-   
-And in your `application.css` you will need to add this line:
+In your `application.css` you will need to add this line:
 
     *= require awesome-bootstrap-checkbox
 
